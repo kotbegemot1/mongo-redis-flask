@@ -1,4 +1,4 @@
-# E7-flask-mongo-redis
+# flask-mongo-redis
 
 Это веб-приложение, построенное на Flask, Mongo и Redis. 
  
